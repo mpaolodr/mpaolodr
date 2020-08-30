@@ -197,7 +197,11 @@
 <br/>
 
 <div align="center" width="800px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaolodr&hide=html&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 300px; height: 200px; max-height: 300px; display: inline;"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mpaolodr&hide=stars&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 100px; height: 200px; max-height: 300px; display: inline-block;"/>
+|                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                            |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaolodr&hide=html&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 300px; height: 200px; max-height: 300px; display: inline;"/> | <img src="https://github-readme-stats.vercel.app/api?username=mpaolodr&hide=stars&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 100px; height: 200px; max-height: 300px; display: inline-block;"/> |
+
+|
+
 </div>
