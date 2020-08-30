@@ -33,7 +33,7 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tbody>
 <!-- First row -->
 <tr>
