@@ -33,7 +33,8 @@
 
 <br/>
 
-<table align="center" style="width: 1000px">
+<table>
+<tbody>
 <!-- First row -->
 <tr style="width: 100%">
 <td style="width: 25%">
@@ -178,7 +179,7 @@
 
 </td>
 </tr>
-
+</tbody>
 </table>
 
 <br/>
