@@ -33,7 +33,7 @@
 
 <br/>
 
-<table align="center" style="width: 100%">
+<table align="center" style="width: 1000px">
 <!-- First row -->
 <tr style="width: 100%">
 <td style="width: 25%">
