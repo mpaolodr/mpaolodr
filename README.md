@@ -33,11 +33,11 @@
 
 <br/>
 
-<table align="center" width="1000px">
-<tbody width="100%">
+<table>
+<tbody>
 <!-- First row -->
-<tr width="100%">
-<td width="200px" height="100px">
+<tr>
+<td width="50%" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
