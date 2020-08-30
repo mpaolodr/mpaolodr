@@ -36,7 +36,7 @@
 <table width="1080px">
 <tbody>
 <!-- First row -->
-<tr>
+<tr width="100%">
 <td width="25%" height="100px">
 
 <div align="center">
