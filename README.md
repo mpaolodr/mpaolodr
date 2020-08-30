@@ -32,10 +32,6 @@
 <h2 align="center"> 💡 Tech Stack 💡 </h2>
 
 <br/>
-
----
-
-<br/>
 <table align="center" style="width: 100%; border: 2px solid black;">
 <!-- First row -->
 <tr style="outline: none">
