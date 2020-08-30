@@ -34,7 +34,7 @@
 <br/>
 
 <table width="1080px">
-<tbody>
+<tbody width="1080px">
 <!-- First row -->
 <tr width="100%">
 <td width="25%" height="100px">
