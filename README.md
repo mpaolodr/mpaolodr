@@ -36,7 +36,7 @@
 ---
 
 <br/>
-<table align="center" style="width: 100%; border: 0;">
+<table align="center" style="width: 100px">
 <!-- First row -->
 <tr style="outline: none">
 <td>
