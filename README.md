@@ -37,7 +37,7 @@
 <tbody>
 <!-- First row -->
 <tr>
-<td width="200px" height="100px">
+<td width="250px" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
@@ -45,7 +45,7 @@
 </div>
 
 </td>
-<td width="200px" height="100px">
+<td width="250px" height="100px">
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 </div>
 
 </td>
-<td width="200px" height="100px">
+<td width="250px" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript-logo-svgporn" width="50" height="50"/>
@@ -65,7 +65,7 @@
 
 </td>
 
-<td width="200px" height="100px">
+<td width="250px" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="react-logo-svgporn" width="50" height="50"/>
