@@ -33,33 +33,10 @@
 
 <br/>
 
-|     |     |     |     |
-| :-: | :-: | :-: | :-: |
-
-
-|<div align="center">
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
-
-<p align="center">HTML</p>
-</div>|<div align="center">
-
-<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css-logo-svgporn" width="50" height="50"/>
-<p align="center">CSS</p>
-
-</div>|<div align="center">
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript-logo-svgporn" width="50" height="50"/>
-<p align="center">Javascript</p>
-
-</div>|<div align="center">
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="react-logo-svgporn" width="50" height="50"/>
-<p align="center">React</p>
-
-</div>|
-
-<table align="center" style="width: 100%; border: 2px solid black;">
+<table align="center" style="width: 100%">
 <!-- First row -->
-<tr>
-<td style="border: 0">
+<tr style="width: 100%">
+<td style="width: 25%">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
@@ -67,14 +44,33 @@
 </div>
 
 </td>
-<td style="border: 0">
+<td style="width: 25%">
+
+<div align="center">
+
+<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css-logo-svgporn" width="50" height="50"/>
+<p align="center">CSS</p>
+
+</div>
 
 </td>
-<td style="border: 0">
+<td style="width: 25%">
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript-logo-svgporn" width="50" height="50"/>
+<p align="center">Javascript</p>
+
+</div>
 
 </td>
 
-<td style="border: 0">
+<td style="width: 25%">
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react-logo-svgporn" width="50" height="50"/>
+<p align="center">React</p>
+
+</div>
 
 </td>
 </tr>
