@@ -45,7 +45,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript-logo-svgporn" width="50" height="50"/>
@@ -65,7 +65,7 @@
 
 </td>
 
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="react-logo-svgporn" width="50" height="50"/>
@@ -78,7 +78,7 @@
 
 <!-- Second row -->
 <tr height="110px" width="100%">
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux-logo-svgporn" width="50" height="50"/>
@@ -86,7 +86,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass-logo-svgporn" width="50" height="50"/>
@@ -95,7 +95,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/less.svg" alt="less-logo-svgporn" width="50" height="50"/>
@@ -104,7 +104,7 @@
 
 </td>
 
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github-logo-svgporn" width="50" height="50"/>
@@ -115,8 +115,8 @@
 </tr>
 
 <!-- Third row -->
-<tr height= "110px" width="100%">
-<td width="25%">
+<tr>
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/sqlite.svg" alt="sqlite-logo-svgporn" width="50" height="50"/>
@@ -124,7 +124,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgres-logo-svgporn" width="50" height="50"/>
@@ -132,7 +132,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs-logo-svgporn" width="50" height="50"/>
@@ -141,7 +141,7 @@
 
 </td>
 
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/express.svg" alt="express-logo-svgporn" width="50" height="50"/>
@@ -153,8 +153,8 @@
 
 <!-- Fourth row -->
 
-<tr height= "110px" width="100%">
-<td width="25%">
+<tr>
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/knex.svg" alt="knex-logo-svgporn" width="50" height="50"/>
@@ -162,7 +162,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest-logo-svgporn" width="50" height="50"/>
@@ -170,7 +170,7 @@
 </div>
 
 </td>
-<td width="25%">
+<td>
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/python.svg" alt="python-logo-svgporn" width="50" height="50"/>
