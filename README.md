@@ -196,6 +196,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaolodr&hide=html&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; height: 200px; max-height: 300px; display: inline;"/>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaolodr&hide=html&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 350px; height: 200px; max-height: 300px; display: inline;"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mpaolodr&hide=stars&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; height: 200px; max-height: 300px; display: inline;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mpaolodr&hide=stars&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 350px; height: 200px; max-height: 300px; display: inline;"/>
