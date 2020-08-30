@@ -196,21 +196,6 @@
 
 <br/>
 
-<table align="center" style="width: 100%; max-width: 1000px; min-width: 900px;">
-
-<tr>
-<td style="width: 50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaolodr&hide=html&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; height: 200px; max-height: 300px;"/>
 
-</td>
-
-<td style="width: 50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=mpaolodr&hide=stars&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" style="width: 100%; height: 200px; max-height: 300px;"/>
-
-</td>
-
-</tr>
-
-</table>
