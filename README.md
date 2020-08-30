@@ -33,8 +33,8 @@
 
 <br/>
 
-<table width="100%">
-<tbody>
+<table>
+<tbody width="100%">
 <!-- First row -->
 <tr width="100%">
 <td width="25%">
