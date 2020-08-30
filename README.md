@@ -38,7 +38,7 @@
 <br/>
 <table align="center" style="width: 100%; max-width: 1000px;">
 <!-- First row -->
-<tr>
+<tr style="border: none;">
 <td>
 
 <div align="center">
