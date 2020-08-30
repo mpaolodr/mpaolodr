@@ -34,8 +34,8 @@
 <br/>
 <table align="center" style="width: 100%; border: 2px solid black;">
 <!-- First row -->
-<tr style="outline: none">
-<td>
+<tr>
+<td style="border: 0">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
@@ -43,7 +43,7 @@
 </div>
 
 </td>
-<td>
+<td style="border: 0">
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 </div>
 
 </td>
-<td>
+<td style="border: 0">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript-logo-svgporn" width="50" height="50"/>
@@ -63,7 +63,7 @@
 
 </td>
 
-<td>
+<td style="border: 0">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="react-logo-svgporn" width="50" height="50"/>
