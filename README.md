@@ -37,7 +37,7 @@
 <tbody>
 <!-- First row -->
 <tr>
-<td width="100px" height="100px">
+<td width="200px" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
@@ -78,7 +78,7 @@
 
 <!-- Second row -->
 <tr>
-<td width="100px" height="100px">
+<td width="200px" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux-logo-svgporn" width="50" height="50"/>
@@ -116,7 +116,7 @@
 
 <!-- Third row -->
 <tr>
-<td width="100px" height="100px">
+<td width="200px" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/sqlite.svg" alt="sqlite-logo-svgporn" width="50" height="50"/>
@@ -153,7 +153,7 @@
 <!-- Fourth row -->
 
 <tr>
-<td width="100px" height="100px">
+<td width="200px" height="100px">
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/knex.svg" alt="knex-logo-svgporn" width="50" height="50"/>
