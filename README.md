@@ -195,7 +195,7 @@
 ---
 
 <br/>
-<div align="center" width="800px">
+<div align="center" width="800px" style="border: 2px solid black">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpaolodr&hide=html&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" align="left"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mpaolodr&hide=stars&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" align="right"/>
