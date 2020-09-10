@@ -16,7 +16,7 @@
 
 <h3>I'm currently: </h3>
 
-- a Computer Science Team Lead
+- A Computer Science Team Lead
 - Learning some new stuff
   - React-query
   - Graphql
