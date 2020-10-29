@@ -18,9 +18,9 @@
 
 - A Computer Science Team Lead
 - Learning some new stuff
-  - React-query
+  - Nodejs
   - Graphql
-  - C++
+  - Docker
 - Living the dream!
 
 <br/>
