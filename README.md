@@ -177,6 +177,16 @@
 </div>
 
 </td>
+
+
+<td>
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript-logo-svgporn" width="50" height="50"/>
+<p align="center">TypeScript</p>
+</div>
+
+</td>
 </tr>
 </tbody>
 </table>
