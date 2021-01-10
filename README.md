@@ -18,7 +18,6 @@
 
 - A Computer Science Team Lead
 - Learning some new stuff
-  - TypeScript
   - Graphql
   - Docker
 - Living the dream!
