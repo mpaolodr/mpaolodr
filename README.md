@@ -18,8 +18,8 @@
 
 - A Computer Science Team Lead
 - Learning some new stuff
-  - Graphql
-  - Docker
+  - Storybook
+  - Cypress
 - Living the dream!
 
 <br/>
