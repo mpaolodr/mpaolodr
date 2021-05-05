@@ -16,10 +16,10 @@
 
 <h3>I'm currently: </h3>
 
-- A Computer Science Team Lead
+- A Full-Stack Developer and Part-time Lambda School Team Lead
 - Learning some new stuff
-  - Storybook
-  - Cypress
+  - Java
+  - MySQL
 - Living the dream!
 
 <br/>
