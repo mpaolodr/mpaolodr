@@ -20,6 +20,8 @@
 - Learning some new stuff
   - Java
   - MySQL
+  - JUnit
+  - Maven
 - Living the dream!
 
 <br/>
