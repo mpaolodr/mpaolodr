@@ -18,10 +18,7 @@
 
 - A Full-Stack Developer and Part-time Lambda School Team Lead
 - Learning some new stuff
-  - Java
-  - MySQL
-  - JUnit
-  - Maven
+  - Algorithms
 - Living the dream!
 
 <br/>
