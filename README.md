@@ -19,6 +19,7 @@
 - A Full-Stack Developer and Part-time Lambda School Team Lead
 - Learning some new stuff
   - Algorithms
+  - Microfrontend
 - Living the dream!
 
 <br/>
